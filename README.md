@@ -1,7 +1,3 @@
-Here's a README for the provided project:
-
----
-
 # Kilo Text Editor
 
 Kilo is a simple, lightweight text editor implemented in C. It operates in the terminal and supports basic text editing features such as navigation, saving files, and syntax highlighting.
