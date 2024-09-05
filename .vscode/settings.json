@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.tidal": "haskell",
-        "unistd.h": "c",
-        "editor.h": "c"
-    }
-}

@@ -1,0 +1,36 @@
+# macOS specific files
+.DS_Store
+
+# VSCode specific files
+.vscode/
+
+# Build artifacts
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# Editor/IDE backup files
+*.swp
+*~
+
+# Logs
+*.log
+
+# CTags
+tags
+
+# Object files and other compiled binaries
+*.obj
+*.dylib
+*.dll
+
+# Coverage reports
+*.gcda
+*.gcno
+*.gcov
+
+# Temporary files
+*.tmp
+*.temp
